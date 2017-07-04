@@ -1,6 +1,6 @@
 
 title: My Resume
-url: 'http://webjeda.com'
+url: 'http://zhaorq.com'
 baseurl: '' #change it according to your repository name
 
 
@@ -18,8 +18,8 @@ tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: zhaorq@gmail..com
+phone: 917 513 2206
 website: blog.tianyi.com #do not add http://
 linkedin: zhaorq
 github: zhaorq
